@@ -17,7 +17,7 @@ I built the back end for an e-commerce site by configuring a working Express.js 
 
 The following video shows the application's GET, POST, PUT, and DELETE routes to return all categories, all products, and all tags being tested in Insomnia:
 
-![In Insomnia, the user tests “GET, POST, PUT, and DELETE routes”.](https://drive.google.com/file/d/18rZz6oNMgsUMHe2hRTRK31uA3Y_08qdd/view)
+Watch demo here - [Screencastify”](https://drive.google.com/file/d/18rZz6oNMgsUMHe2hRTRK31uA3Y_08qdd/view)
 
 ## Installation 
 The user should clone the repository from GitHub and then install Node. Run npm i to install the other dependencies. Then run npm run seed to seed the database. Insomnia or Postman should also be installed to test API endpoints. 
